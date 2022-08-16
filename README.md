@@ -1,6 +1,10 @@
-# monsterSlayerGame
+# Monster Slayer Game
 This is the Monster Slayer Project that I've made using: HTML, CSS and Vue.js
 You can check it out following the link: https://19marius93.github.io/monsterSlayerGame/
+
+Skills used:
+HTML: I've used Semantic Elements to make it more comprehensible, I've provided the elements with 'classes' and 'ids' so I can manipulate and style them in CSS, and I've used Custom Events to link it to my .js file.
+
 
 How it works: 
 - everytime you attack, the monster attacks back
